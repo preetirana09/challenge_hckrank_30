@@ -1,6 +1,6 @@
 
 
-DAY 8---HASH MAPS
+DAY 8--HASH MAPS
 
 
 
